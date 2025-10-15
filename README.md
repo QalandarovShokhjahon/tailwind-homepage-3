@@ -1,6 +1,6 @@
   # 🧡 Tailwind Homepage-3
 
-A modern responsive homepage built with HTML and Tailwind CSS.  
+A modern homepage built with HTML and Tailwind CSS.  
 This project represents the main section of a clean and professional website.
 
 ---
@@ -20,7 +20,7 @@ This project represents the main section of a clean and professional website.
 ---
 
 ## 🚀 Preview
-Add a screenshot or demo link here once deployed.
+👉 [View Website](https://QalandarovShokhjahon.github.io/tailwind-homepage-3/)
 
 ---
 
